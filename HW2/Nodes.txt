@@ -1,0 +1,27 @@
+0-Boston-42.36-71.06
+1-New York-40.71-74
+2-Washington DC-38.90-77.02
+3-Raleigh-35.78-78.64
+4-Philadelphia-39.95-75.17
+5-Detroit-42.33-83.05
+6-Atlanta-33.76-84.39
+7-Nashville-36.17-86.78
+8-Miami-25.78-80.21
+9-New Orleans-29.95-90.01
+10-Houston-29.76-95.36
+11-Dallas-32.78-96.80
+12-Oklahoma City-36.13-95.93
+13-Kansas City-39.1-94.57
+14-Minneapolis-44.98-93.27
+15-Denver-39.73-105
+16-Albuquerque-35.11-106.61
+17-Las Vegas-36.12-115.17
+18-Los Angeles-34.05-118.25
+19-San Diego-32.72-117.16
+20-San Francisco-37.78-122.42
+21-Sacramento-38.56-121.46
+22-Portland-45.52-122.68
+23-Seattle-47.60-122.33
+24-Salt Lake City-40.75-111.88
+25-Phoenix-33.45-112.07
+26-Chicago-41.83-87.68

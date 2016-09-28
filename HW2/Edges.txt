@@ -1,0 +1,39 @@
+Boston,New York,200
+Boston,Philadelphia,270
+Philadelphia,New York,100
+Detroit,Boston,700
+Philadelphia,Washington DC,145
+Nashville,Philadelphia,800
+Philadelphia,Nashville,800
+Washington DC,Raleigh,260
+Raleigh,Atlanta,400
+Atlanta,Raleigh,400
+Nashville,Atlanta,250
+Kansas City,Nashville,555
+Atlanta,Miami,700
+New Orleans,Atlanta,470
+Minneapolis,Detroit,690
+Chicago,Detroit,290
+Minneapolis,Chicago,350
+Chicago,Kansas City,510
+Minneapolis,Denver,900
+Denver,Minneapolis,900
+Oklahoma City,Kansas City,310
+Oklahoma City,Dallas,200
+Houston,New Orleans,375
+Dallas,Houston,250
+Dallas,Phoenix,1000
+Denver,Oklahoma City,680
+Albuquerque,Denver,450
+Salt Lake City,Denver,520
+Phoenix,Albuquerque,420
+San Diego,Albuquerque,800
+Albuquerque,Las Vegas,575
+Las Vegas,Sacramento,560
+San Diego,Los Angeles,120
+Los Angeles,San Francisco,380
+San Francisco,Los Angeles,280
+San Francisco,Sacramento,100
+Sacramento,Portland,580
+Portland,Seattle,175
+Seattle,Salt Lake City,1000
